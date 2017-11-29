@@ -252,9 +252,4 @@ https://aframe.io/a-painter/
 # What's next?
 
 - Consolidation of the A-Frame core API and move towards 1.0.0
-- Emphasis on the component communities.
-
-<div class="stack-image">
-  <img data-src="media/img/webXR-graffiti-sd.gif">
-  <div>Experimental browser available soon for ARKit (iOS) and ARCore (Android)</div>
-</div>
+- Emphasis on the component community.
