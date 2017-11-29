@@ -78,7 +78,7 @@ Support of all headsets out of the box
   </div>
 </div>
 
-<!-- NOTES -->f
+<!-- NOTES -->
 - Next week is the 2nd anniversary
 - Active community on Slack to share projects, interact, hang out, seek help
 - Featured projects on the `awesome-aframe` repository and *A Week of A-Frame* blog
@@ -142,8 +142,6 @@ position="2 1 -5" rotation="0 90 0"></a-entity>`
 - `https://aframe.io/examples/hello-metaverse/`
 
 ------
-
-<!-- .slide: data-background="media/img/header.png" -->
 
 # Community Examples
 
@@ -209,7 +207,52 @@ https://aframe.io/blog/
 </div>
 
 ------
-# What about AR
+
+<div class="tweet">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;ve been working on a 3D planetarium for <a href="https://twitter.com/hashtag/WebVR?src=hash">#WebVR</a> called Up There. Explore 100k nearby stars &amp; their exoplanets. <a href="https://twitter.com/hashtag/WIP?src=hash">#WIP</a> <a href="https://t.co/LthxgEImaO">https://t.co/LthxgEImaO</a> <a href="https://t.co/ZwbqbBrjqI">pic.twitter.com/ZwbqbBrjqI</a></p>&mdash; Charlie Hoey (@flimshaw) <a href="https://twitter.com/flimshaw/status/904897836323676160">September 5, 2017</a></blockquote>
+</div>
+------
+
+<div class="tweet">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is insane ! <a href="https://twitter.com/Google">@Google</a> Creative Lab project Inside Music was made using <a href="https://twitter.com/aframevr">@aframevr</a> 🅰️ <br><br>Try now at <a href="https://t.co/05KMiU96uK">https://t.co/05KMiU96uK</a> <a href="https://t.co/SrOIna6iCK">pic.twitter.com/SrOIna6iCK</a></p>&mdash; Karan Ganesan (@karanganesan) <a href="https://twitter.com/karanganesan/status/905301982432436224">September 6, 2017</a></blockquote>
+</div>
+
+------
+<div class="tweet">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Experimenting with room-scale (room-in-room-scale?) AR with <a href="https://twitter.com/hashtag/ARKit?src=hash">#ARKit</a> and <a href="https://twitter.com/aframevr">@aframevr</a> . Scan by <a href="https://twitter.com/Tojek_VFX">@Tojek_VFX</a> on Sketchfab. <a href="https://t.co/Sh9C9lLxE7">pic.twitter.com/Sh9C9lLxE7</a></p>&mdash; Ben Ferns (@ben_ferns) <a href="https://twitter.com/ben_ferns/status/898171851096039428">August 17, 2017</a></blockquote>
+</div>
+
+------
+<div class="tweet">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Now that <a href="https://twitter.com/firefox">@firefox</a> 55 🦊ships WebVR ⛵️Do yourself a favor and make some <a href="https://twitter.com/aframevr">@aframevr</a> portals to your favorite places 🏝<a href="https://t.co/YP4fEQDQmT">https://t.co/YP4fEQDQmT</a> <a href="https://t.co/uErFsPJSGA">pic.twitter.com/uErFsPJSGA</a></p>&mdash; Diego (@dmarcos) <a href="https://twitter.com/dmarcos/status/895335223621107712">August 9, 2017</a></blockquote>
+</div>
+------
+
+# What about AR?
+
+------
+
+<!-- .slide: data-background="media/img/apainter.gif" -->
+
+# A-Painter 
+
+https://aframe.io/a-painter/
+
+------
+
+# What about AR?
+
+<div class="stack-image">
+  <img data-src="media/img/webXR-graffiti-sd.gif">
+  <div>Experimental browser available soon for ARKit (iOS) and ARCore (Android)</div>
+</div>
+
+------
+
+# What's next?
+
+- Consolidation of the A-Frame core API and move towards 1.0.0
+- Emphasis on the component communities.
 
 <div class="stack-image">
   <img data-src="media/img/webXR-graffiti-sd.gif">
